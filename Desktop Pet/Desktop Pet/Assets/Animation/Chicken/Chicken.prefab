@@ -191,3 +191,7 @@ MonoBehaviour:
   timer: 0
   isIdle: 1
   timeKey: 0
+  egg: {fileID: 2692836550516149733, guid: b40d854069cdf484b805312f08df7bc6, type: 3}
+  egg_time: 20
+  egg_timeKey: 0
+  eggs: {fileID: 0}

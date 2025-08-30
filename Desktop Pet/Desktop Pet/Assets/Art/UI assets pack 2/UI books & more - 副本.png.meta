@@ -745,7 +745,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -783,7 +783,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -5794,7 +5794,244 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "UI books & more - \u526F\u672C_0": -1957969012363473680
+      "UI books & more - \u526F\u672C_1": 5075856539790495069
+      "UI books & more - \u526F\u672C_10": 4321610870593544894
+      "UI books & more - \u526F\u672C_100": -9213833354572785248
+      "UI books & more - \u526F\u672C_101": 5674915890078162409
+      "UI books & more - \u526F\u672C_102": -225955730661841158
+      "UI books & more - \u526F\u672C_103": -1470590608351005830
+      "UI books & more - \u526F\u672C_104": 5898023679793353853
+      "UI books & more - \u526F\u672C_105": -8201851227051012543
+      "UI books & more - \u526F\u672C_106": -5587868493566437764
+      "UI books & more - \u526F\u672C_107": 7744773219046500004
+      "UI books & more - \u526F\u672C_108": -328098033244106522
+      "UI books & more - \u526F\u672C_109": -6333880040265569477
+      "UI books & more - \u526F\u672C_11": 2099937187059327799
+      "UI books & more - \u526F\u672C_110": 530403256948851016
+      "UI books & more - \u526F\u672C_111": 2395837873575021724
+      "UI books & more - \u526F\u672C_112": -193235256988080384
+      "UI books & more - \u526F\u672C_113": 4194596647441344270
+      "UI books & more - \u526F\u672C_114": 2594748611588479810
+      "UI books & more - \u526F\u672C_115": -1941028165169835623
+      "UI books & more - \u526F\u672C_116": -3573997541772767503
+      "UI books & more - \u526F\u672C_117": 4861440649646332495
+      "UI books & more - \u526F\u672C_118": 5681822520286900416
+      "UI books & more - \u526F\u672C_119": -6480175295646521021
+      "UI books & more - \u526F\u672C_12": 6009176328816500952
+      "UI books & more - \u526F\u672C_120": -4205199383071530841
+      "UI books & more - \u526F\u672C_121": 8605668141600420707
+      "UI books & more - \u526F\u672C_122": -9203435268623258425
+      "UI books & more - \u526F\u672C_123": 1233897798857783218
+      "UI books & more - \u526F\u672C_124": -6364708191341525550
+      "UI books & more - \u526F\u672C_125": -2765483558558373578
+      "UI books & more - \u526F\u672C_126": -235512524604696840
+      "UI books & more - \u526F\u672C_127": 6633197146504304250
+      "UI books & more - \u526F\u672C_128": 1105974940452964081
+      "UI books & more - \u526F\u672C_129": -5856391196248305827
+      "UI books & more - \u526F\u672C_13": 4486884897448706571
+      "UI books & more - \u526F\u672C_130": -3048115416139658030
+      "UI books & more - \u526F\u672C_131": -1865699840014838594
+      "UI books & more - \u526F\u672C_132": -5422995251202229348
+      "UI books & more - \u526F\u672C_133": 2681879754748242849
+      "UI books & more - \u526F\u672C_134": -6420453177613232102
+      "UI books & more - \u526F\u672C_135": 7163557789543041538
+      "UI books & more - \u526F\u672C_136": -8270415442075601238
+      "UI books & more - \u526F\u672C_137": -5981237545420351239
+      "UI books & more - \u526F\u672C_138": -3335978471356932256
+      "UI books & more - \u526F\u672C_139": 7890613856889778389
+      "UI books & more - \u526F\u672C_14": 7374278212518421335
+      "UI books & more - \u526F\u672C_140": 3718686747540892873
+      "UI books & more - \u526F\u672C_141": -43520983690773205
+      "UI books & more - \u526F\u672C_142": -4701320519155175592
+      "UI books & more - \u526F\u672C_143": 5036302686951023029
+      "UI books & more - \u526F\u672C_144": 639969916674934399
+      "UI books & more - \u526F\u672C_145": -2023740391985469259
+      "UI books & more - \u526F\u672C_146": 8900984329384630948
+      "UI books & more - \u526F\u672C_147": 5269969180740722040
+      "UI books & more - \u526F\u672C_148": 8799875852709768117
+      "UI books & more - \u526F\u672C_149": 3463342575954951039
+      "UI books & more - \u526F\u672C_15": -2309424162314065143
+      "UI books & more - \u526F\u672C_150": -7004917193642663360
+      "UI books & more - \u526F\u672C_151": -242550525919193831
+      "UI books & more - \u526F\u672C_152": -821133780416808582
+      "UI books & more - \u526F\u672C_153": -3400002107547842674
+      "UI books & more - \u526F\u672C_154": -2527827212602477156
+      "UI books & more - \u526F\u672C_155": 8113146280329109123
+      "UI books & more - \u526F\u672C_156": -5342748257218645940
+      "UI books & more - \u526F\u672C_157": -7468055315280180851
+      "UI books & more - \u526F\u672C_158": -5694322202525106650
+      "UI books & more - \u526F\u672C_159": 4622673904070167116
+      "UI books & more - \u526F\u672C_16": 1438242870892696681
+      "UI books & more - \u526F\u672C_160": 7982600276377776430
+      "UI books & more - \u526F\u672C_161": 1337327146103107735
+      "UI books & more - \u526F\u672C_162": 5843524353103281288
+      "UI books & more - \u526F\u672C_163": 164176201513285906
+      "UI books & more - \u526F\u672C_164": 2430142499115567393
+      "UI books & more - \u526F\u672C_165": 685826024489527624
+      "UI books & more - \u526F\u672C_166": 5084157126087510466
+      "UI books & more - \u526F\u672C_167": -5603529678102870910
+      "UI books & more - \u526F\u672C_168": 887251021437695188
+      "UI books & more - \u526F\u672C_169": 6881802092572290749
+      "UI books & more - \u526F\u672C_17": -648409686999170441
+      "UI books & more - \u526F\u672C_170": -5627762749820209141
+      "UI books & more - \u526F\u672C_171": -5811228416587704927
+      "UI books & more - \u526F\u672C_172": -1306085513968684669
+      "UI books & more - \u526F\u672C_173": -6944897801648046415
+      "UI books & more - \u526F\u672C_174": -1830471928298492187
+      "UI books & more - \u526F\u672C_175": -1461074189387578310
+      "UI books & more - \u526F\u672C_176": 1946573889237839154
+      "UI books & more - \u526F\u672C_177": 5534866058539116904
+      "UI books & more - \u526F\u672C_178": -8281366701500305953
+      "UI books & more - \u526F\u672C_179": 8297691571123771260
+      "UI books & more - \u526F\u672C_18": -4075183628159659295
+      "UI books & more - \u526F\u672C_180": 2672092879084569732
+      "UI books & more - \u526F\u672C_181": 4454977104242005761
+      "UI books & more - \u526F\u672C_182": 8277129355084515993
+      "UI books & more - \u526F\u672C_183": -5565229306969098216
+      "UI books & more - \u526F\u672C_184": 5505292108204497341
+      "UI books & more - \u526F\u672C_185": -4041776956844059223
+      "UI books & more - \u526F\u672C_186": 7852622765116321946
+      "UI books & more - \u526F\u672C_187": 6986651812316780896
+      "UI books & more - \u526F\u672C_188": -1451017853351903921
+      "UI books & more - \u526F\u672C_189": -120088589721329392
+      "UI books & more - \u526F\u672C_19": 5983937599087684611
+      "UI books & more - \u526F\u672C_190": 1901977792810571707
+      "UI books & more - \u526F\u672C_191": 3335982832753936889
+      "UI books & more - \u526F\u672C_192": -7008682894400424555
+      "UI books & more - \u526F\u672C_193": 2051877026624281036
+      "UI books & more - \u526F\u672C_194": 6282889063726593305
+      "UI books & more - \u526F\u672C_195": 9145549755933064749
+      "UI books & more - \u526F\u672C_196": -6274155038251988473
+      "UI books & more - \u526F\u672C_197": -7148449758473172657
+      "UI books & more - \u526F\u672C_198": 5685738283428455694
+      "UI books & more - \u526F\u672C_199": -6748996194058886234
+      "UI books & more - \u526F\u672C_2": 2671857394449744534
+      "UI books & more - \u526F\u672C_20": -1009925517799485998
+      "UI books & more - \u526F\u672C_200": 5966947233181578770
+      "UI books & more - \u526F\u672C_201": -6111648167572934087
+      "UI books & more - \u526F\u672C_202": 5996055281437599340
+      "UI books & more - \u526F\u672C_203": -2385457508498894308
+      "UI books & more - \u526F\u672C_204": 599327302462337711
+      "UI books & more - \u526F\u672C_205": -4563739244536066210
+      "UI books & more - \u526F\u672C_206": -8944193721309432444
+      "UI books & more - \u526F\u672C_207": -2307254429385141011
+      "UI books & more - \u526F\u672C_208": -4287375830328029630
+      "UI books & more - \u526F\u672C_209": -5016748778961593202
+      "UI books & more - \u526F\u672C_21": 2576126390559228057
+      "UI books & more - \u526F\u672C_210": 6159027148547129330
+      "UI books & more - \u526F\u672C_211": -8906315785153842527
+      "UI books & more - \u526F\u672C_212": 8153042576294418195
+      "UI books & more - \u526F\u672C_213": -4507691990674563417
+      "UI books & more - \u526F\u672C_214": -7256211582228999270
+      "UI books & more - \u526F\u672C_215": 7705616945283770937
+      "UI books & more - \u526F\u672C_216": -7343092825804685828
+      "UI books & more - \u526F\u672C_217": 4106237880304321501
+      "UI books & more - \u526F\u672C_218": -276964597541634979
+      "UI books & more - \u526F\u672C_219": 8373319134950486428
+      "UI books & more - \u526F\u672C_22": 7518124737913526750
+      "UI books & more - \u526F\u672C_220": 7731046281901002812
+      "UI books & more - \u526F\u672C_221": 3811693268356509453
+      "UI books & more - \u526F\u672C_222": -417879569545076523
+      "UI books & more - \u526F\u672C_223": -3088135907892640427
+      "UI books & more - \u526F\u672C_224": 2423696585430343821
+      "UI books & more - \u526F\u672C_225": 7779162847975142292
+      "UI books & more - \u526F\u672C_226": -1651558715512786134
+      "UI books & more - \u526F\u672C_227": -3946242841997332529
+      "UI books & more - \u526F\u672C_228": 7768754904966822719
+      "UI books & more - \u526F\u672C_229": -6417103941180966625
+      "UI books & more - \u526F\u672C_23": 7003038680928759611
+      "UI books & more - \u526F\u672C_230": -7236958930283259576
+      "UI books & more - \u526F\u672C_231": 1252505398847313175
+      "UI books & more - \u526F\u672C_232": 253307462131999323
+      "UI books & more - \u526F\u672C_233": -2431603445715350584
+      "UI books & more - \u526F\u672C_234": -4793645011859797195
+      "UI books & more - \u526F\u672C_235": -253410617437624111
+      "UI books & more - \u526F\u672C_236": 1794772615238573113
+      "UI books & more - \u526F\u672C_24": -4946314062241843206
+      "UI books & more - \u526F\u672C_25": -5392333611085026473
+      "UI books & more - \u526F\u672C_26": -4785233500133789864
+      "UI books & more - \u526F\u672C_27": -5965483224987035445
+      "UI books & more - \u526F\u672C_28": -6349201887697229414
+      "UI books & more - \u526F\u672C_29": -7336262838924080841
+      "UI books & more - \u526F\u672C_3": 2628700860448705065
+      "UI books & more - \u526F\u672C_30": 4202320683551209705
+      "UI books & more - \u526F\u672C_31": -8112066523996729814
+      "UI books & more - \u526F\u672C_32": -772741458297271293
+      "UI books & more - \u526F\u672C_33": -3691587819906035764
+      "UI books & more - \u526F\u672C_34": -3154231001528248043
+      "UI books & more - \u526F\u672C_35": 4115681739227985349
+      "UI books & more - \u526F\u672C_36": -3485316914303218145
+      "UI books & more - \u526F\u672C_37": -4247437529881680147
+      "UI books & more - \u526F\u672C_38": 4363259351058856722
+      "UI books & more - \u526F\u672C_39": 6257021086129120531
+      "UI books & more - \u526F\u672C_4": -2440650810767599863
+      "UI books & more - \u526F\u672C_40": 860193474285070012
+      "UI books & more - \u526F\u672C_41": 2400342905697470510
+      "UI books & more - \u526F\u672C_42": 6072984303446529524
+      "UI books & more - \u526F\u672C_43": 7295775675538598340
+      "UI books & more - \u526F\u672C_44": 4733819676450903585
+      "UI books & more - \u526F\u672C_45": -4431154231790054474
+      "UI books & more - \u526F\u672C_46": -6931881118584063626
+      "UI books & more - \u526F\u672C_47": -4808472302576741648
+      "UI books & more - \u526F\u672C_48": -4362512701213474847
+      "UI books & more - \u526F\u672C_49": 6924111939890418851
+      "UI books & more - \u526F\u672C_5": -5076020016690434818
+      "UI books & more - \u526F\u672C_50": -3627547977960396307
+      "UI books & more - \u526F\u672C_51": -6181681660544467575
+      "UI books & more - \u526F\u672C_52": 4147684955517414366
+      "UI books & more - \u526F\u672C_53": 1758771353582589400
+      "UI books & more - \u526F\u672C_54": -5935040753673047611
+      "UI books & more - \u526F\u672C_55": -3204143060495241456
+      "UI books & more - \u526F\u672C_56": 1584225184761316325
+      "UI books & more - \u526F\u672C_57": 4843440864104127553
+      "UI books & more - \u526F\u672C_58": -8379463268978601332
+      "UI books & more - \u526F\u672C_59": -3758229662709183998
+      "UI books & more - \u526F\u672C_6": 8462350556622539964
+      "UI books & more - \u526F\u672C_60": 7916460190090950024
+      "UI books & more - \u526F\u672C_61": -5718049151794935651
+      "UI books & more - \u526F\u672C_62": -6306769129094796081
+      "UI books & more - \u526F\u672C_63": -4813400565381359833
+      "UI books & more - \u526F\u672C_64": 7686777490203447818
+      "UI books & more - \u526F\u672C_65": 8562084508214082872
+      "UI books & more - \u526F\u672C_66": 2997896764470804384
+      "UI books & more - \u526F\u672C_67": 3616148662194125649
+      "UI books & more - \u526F\u672C_68": 407810541415205346
+      "UI books & more - \u526F\u672C_69": -6479525852046907118
+      "UI books & more - \u526F\u672C_7": 849677397945358529
+      "UI books & more - \u526F\u672C_70": 6991709788477180710
+      "UI books & more - \u526F\u672C_71": 8689262686659591115
+      "UI books & more - \u526F\u672C_72": -5333345044395193798
+      "UI books & more - \u526F\u672C_73": 1379566209510992121
+      "UI books & more - \u526F\u672C_74": -4633818090162675246
+      "UI books & more - \u526F\u672C_75": -1725158725478980145
+      "UI books & more - \u526F\u672C_76": -1748076368194247285
+      "UI books & more - \u526F\u672C_77": -5079991519877965360
+      "UI books & more - \u526F\u672C_78": 2567023843763529495
+      "UI books & more - \u526F\u672C_79": 7500215288001107309
+      "UI books & more - \u526F\u672C_8": 5587216136066321525
+      "UI books & more - \u526F\u672C_80": -2882677690563293607
+      "UI books & more - \u526F\u672C_81": 8496846554312549121
+      "UI books & more - \u526F\u672C_82": 6717902645195848298
+      "UI books & more - \u526F\u672C_83": 8624012134472316406
+      "UI books & more - \u526F\u672C_84": 2619234042950540381
+      "UI books & more - \u526F\u672C_85": 6359377993778151622
+      "UI books & more - \u526F\u672C_86": 7806452829332490460
+      "UI books & more - \u526F\u672C_87": 1534186562316628941
+      "UI books & more - \u526F\u672C_88": -7247009000489819500
+      "UI books & more - \u526F\u672C_89": -7517595929188765109
+      "UI books & more - \u526F\u672C_9": -2065240416978037592
+      "UI books & more - \u526F\u672C_90": 1938694459417205531
+      "UI books & more - \u526F\u672C_91": -4970419404196461708
+      "UI books & more - \u526F\u672C_92": 2272286493058416907
+      "UI books & more - \u526F\u672C_93": -277037280823071823
+      "UI books & more - \u526F\u672C_94": -4542518943788106006
+      "UI books & more - \u526F\u672C_95": 2892346559194132970
+      "UI books & more - \u526F\u672C_96": -2250354664280671864
+      "UI books & more - \u526F\u672C_97": -637729723140104371
+      "UI books & more - \u526F\u672C_98": -6548700152772419476
+      "UI books & more - \u526F\u672C_99": 5783217129183445761
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
